@@ -1,2 +1,4 @@
-# daily-code
-A journey of daily C++ coding practice.
+#code-practice
+Collection of my programming practice.
+
+
